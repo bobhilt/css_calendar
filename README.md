@@ -1,0 +1,2 @@
+# css_calendar
+Table-free calendar css example from udemy css projects course.  Not a particularly interesting project in itself, but could be adapted for rails, etc. to make it data-driven with flexible styling.
